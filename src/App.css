@@ -3,9 +3,17 @@
   pointer-events: none;
 }
 
+.card {
+  margin: 1rem;
+}
+
 .card-title {
   background-color: #61dafb;
   color: white;
+}
+
+.card-text {
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
