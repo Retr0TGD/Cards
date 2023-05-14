@@ -1,10 +1,11 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.card-title {
+  background-color: #61dafb;
+  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
